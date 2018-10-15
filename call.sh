@@ -4,11 +4,11 @@
 echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
 
 read nick #membaca yang ditulis
-echo "================================================="
-echo "== ╦ ╦┌─┐┌─┐┬┌─┌─┐┬─┐  ┬┌┐┌┌┬┐┌─┐┌┐┌┌─┐┌─┐┬┌─┐ 	  Aditya Eka Maulana   		=="
-echo "== ╠═╣├─┤│  ├┴┐├┤ ├┬┘  ││││ │││ ││││├┤ └─┐│├─┤ 	Hacker Telkom University	=="
-echo "== ╩ ╩┴ ┴└─┘┴ ┴└─┘┴└─  ┴┘└┘─┴┘└─┘┘└┘└─┘└─┘┴┴ ┴ 		hacker terjago			=="
-echo "================================================="
+echo "===================================="
+echo "==  	  Aditya Eka Maulana   		=="
+echo "==  	Hacker Telkom University	=="
+echo "==  		hacker terjago			=="
+echo "===================================="
 echo selamat datang $nick ":)"
 echo
 echo "Silahkan masukan nomor ip target"
